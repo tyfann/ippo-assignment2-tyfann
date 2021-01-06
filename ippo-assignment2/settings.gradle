@@ -1,0 +1,6 @@
+/*
+ * Gradle settings for ippo GettingStarted example
+ *
+ */
+
+rootProject.name = 'ippo-assignment2'
